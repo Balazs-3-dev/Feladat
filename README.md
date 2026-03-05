@@ -1,1 +1,2 @@
 # Feladat
+Pesti Zsolt software
